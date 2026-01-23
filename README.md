@@ -1,10 +1,10 @@
 # Hi there :wave:
 
 - 🔭 I’m currently working on a [browser extension](https://github.com/EK-92/meterd)
-- 🌱 I’m currently learning Python/React/containers
+- 🌱 I’m currently learning Rails/Python/React/containers
 - 🤔 I’m looking for help with employment
 - 💬 Ask me top 5 git commands and I'll probably remember
-- ⚡ Fun fact: still trying to reach 80km/h while 🏂
+- ⚡ Fun fact: russian military wants me to join the war I never supported in the first place
 
 <!--
 **EK-92/EK-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
