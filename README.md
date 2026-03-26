@@ -1,7 +1,7 @@
 # Hi there :wave:
 
-- 🔭 I’m currently working on a [browser extension](https://github.com/EK-92/meterd)
-- 🌱 I’m currently learning Rails/Python/React/containers
+- 🔭 I’m currently working on a few things that I might even finish
+- 🌱 I’m currently learning Rust/Rails/Python/React/containers
 - 🤔 I’m looking for help with employment
 - 💬 Ask me top 5 git commands and I'll probably remember
 - ⚡ Fun fact: russian military wants me to join the war I never supported in the first place
